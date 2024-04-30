@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1b61623-3286-4f1f-9fbd-b8e730a172c7" name="Changes" comment="suvida">
-      <change afterPath="$PROJECT_DIR$/estudo-avancado/if-else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudo-avancado/multipos-operadores-comparacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudo-avancado/operadores-logicos.py" afterDir="false" />
+    <list default="true" id="c1b61623-3286-4f1f-9fbd-b8e730a172c7" name="Changes" comment="multipos-operadores-comparacao">
+      <change afterPath="$PROJECT_DIR$/estudo-avancado/for-loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudo-avancado/for-loops-strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +43,8 @@
   "keyToString": {
     "Python.atribuicao.executor": "Run",
     "Python.calcula-idade.executor": "Run",
+    "Python.for-loop.executor": "Run",
+    "Python.for-loops-strings.executor": "Run",
     "Python.if-else.executor": "Run",
     "Python.main.executor": "Run",
     "Python.metodos-strings.executor": "Run",
@@ -57,8 +58,8 @@
     "last_opened_file_path": "C:/_stude/python"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.multipos-operadores-comparacao">
-    <configuration name="atribuicao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.for-loop">
+    <configuration name="for-loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudo-avancado/atribuicao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudo-avancado/for-loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calcula-idade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="for-loops-strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudo-avancado/calcula-idade.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudo-avancado/for-loops-strings.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.for-loop" />
+        <item itemvalue="Python.for-loops-strings" />
         <item itemvalue="Python.multipos-operadores-comparacao" />
         <item itemvalue="Python.operadores-logicos" />
         <item itemvalue="Python.if-else" />
-        <item itemvalue="Python.atribuicao" />
-        <item itemvalue="Python.calcula-idade" />
       </list>
     </recent_temporary>
   </component>
@@ -218,11 +219,20 @@
       <option name="project" value="LOCAL" />
       <updated>1714351469944</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="multipos-operadores-comparacao">
+      <option name="closed" value="true" />
+      <created>1714483939776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714483939776</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="suvida" />
-    <option name="LAST_COMMIT_MESSAGE" value="suvida" />
+    <MESSAGE value="multipos-operadores-comparacao" />
+    <option name="LAST_COMMIT_MESSAGE" value="multipos-operadores-comparacao" />
   </component>
 </project>
