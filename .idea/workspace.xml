@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1b61623-3286-4f1f-9fbd-b8e730a172c7" name="Changes" comment="suvida">
+      <change afterPath="$PROJECT_DIR$/estudo-avancado/if-else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudo-avancado/multipos-operadores-comparacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/estudo-avancado/operadores-logicos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/estudo-avancado/atribuicao.py" beforeDir="false" afterPath="$PROJECT_DIR$/estudo-avancado/atribuicao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +44,11 @@
   "keyToString": {
     "Python.atribuicao.executor": "Run",
     "Python.calcula-idade.executor": "Run",
+    "Python.if-else.executor": "Run",
     "Python.main.executor": "Run",
     "Python.metodos-strings.executor": "Run",
+    "Python.multipos-operadores-comparacao.executor": "Run",
+    "Python.operadores-logicos.executor": "Run",
     "Python.string-formatada.executor": "Run",
     "Python.teste01.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -52,7 +57,7 @@
     "last_opened_file_path": "C:/_stude/python"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.atribuicao">
+  <component name="RunManager" selected="Python.multipos-operadores-comparacao">
     <configuration name="atribuicao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -97,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="comparacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="if-else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudo-avancado/comparacao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudo-avancado/if-else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="metodos-strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="multipos-operadores-comparacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudo-avancado/metodos-strings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudo-avancado/multipos-operadores-comparacao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string-formatada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="operadores-logicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudo-avancado/string-formatada.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudo-avancado/operadores-logicos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.multipos-operadores-comparacao" />
+        <item itemvalue="Python.operadores-logicos" />
+        <item itemvalue="Python.if-else" />
         <item itemvalue="Python.atribuicao" />
         <item itemvalue="Python.calcula-idade" />
-        <item itemvalue="Python.comparacao" />
-        <item itemvalue="Python.metodos-strings" />
-        <item itemvalue="Python.string-formatada" />
       </list>
     </recent_temporary>
   </component>
