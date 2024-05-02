@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1b61623-3286-4f1f-9fbd-b8e730a172c7" name="Changes" comment="multipos-operadores-comparacao">
-      <change afterPath="$PROJECT_DIR$/estudo-avancado/for-loop-if-else.py" afterDir="false" />
+    <list default="true" id="c1b61623-3286-4f1f-9fbd-b8e730a172c7" name="Changes" comment="for-loop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/estudo-avancado/nested-loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/estudo-avancado/nested-loop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "Python.main.executor": "Run",
     "Python.metodos-strings.executor": "Run",
     "Python.multipos-operadores-comparacao.executor": "Run",
+    "Python.nested-loop.executor": "Run",
     "Python.operadores-logicos.executor": "Run",
     "Python.string-formatada.executor": "Run",
     "Python.teste01.executor": "Run",
@@ -58,7 +59,7 @@
     "last_opened_file_path": "C:/_stude/python"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.for-loop-if-else">
+  <component name="RunManager" selected="Python.nested-loop">
     <configuration name="for-loop-if-else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
@@ -147,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operadores-logicos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="nested-loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,7 +161,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudo-avancado/operadores-logicos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estudo-avancado/nested-loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.nested-loop" />
         <item itemvalue="Python.for-loop-if-else" />
         <item itemvalue="Python.for-loop" />
         <item itemvalue="Python.for-loops-strings" />
         <item itemvalue="Python.multipos-operadores-comparacao" />
-        <item itemvalue="Python.operadores-logicos" />
       </list>
     </recent_temporary>
   </component>
@@ -227,12 +228,21 @@
       <option name="project" value="LOCAL" />
       <updated>1714483939776</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="for-loop">
+      <option name="closed" value="true" />
+      <created>1714652821379</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714652821379</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="suvida" />
     <MESSAGE value="multipos-operadores-comparacao" />
-    <option name="LAST_COMMIT_MESSAGE" value="multipos-operadores-comparacao" />
+    <MESSAGE value="for-loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="for-loop" />
   </component>
 </project>
